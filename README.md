@@ -45,6 +45,7 @@ portfolio_omar_arejdal/
 ## Maquette Figma
 
 La maquette du projet a été réalisée avec Figma en version desktop et mobile.
+https://www.figma.com/design/OQ6z6WfJVGoPgpbmsHGGsF/Sans-titre?node-id=0-1&t=YehBf49iDqzqdWb3-1
 
 ---
 
