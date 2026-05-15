@@ -58,8 +58,8 @@ https://omararejdal560-glitch.github.io/portfolio_omar_arejdal/
 ---
 ## Capture d’écran
 
-![Portfolio](Screenshot(436)(1).png)
-![Portfolio](Screenshot(437)(1).png)
+![Portfolio](Screenshot (436)(1).png)
+![Portfolio](Screenshot (437)(1).png)
 
 
 ## Auteur
