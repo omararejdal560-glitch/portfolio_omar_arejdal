@@ -53,8 +53,14 @@ https://www.figma.com/design/OQ6z6WfJVGoPgpbmsHGGsF/Sans-titre?node-id=0-1&t=Yeh
 
 Lien GitHub Pages :
 Ajouter ici le lien du site publié.
+https://omararejdal560-glitch.github.io/portfolio_omar_arejdal/
 
 ---
+## Capture d’écran
+
+![Portfolio](Screenshot(436)(1).png)
+![Portfolio](Screenshot(437)(1).png)
+
 
 ## Auteur
 
